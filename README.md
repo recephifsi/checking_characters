@@ -1,1 +1,1 @@
-# checking_characters
+# this project is developed to show function pointer usage.
